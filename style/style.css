@@ -369,19 +369,19 @@ body {
 
 .show__redecorating {
   grid-column: 1/2;
-  background: url(./image/jpg/Redecorating.jpg) no-repeat;
+  background: url(../image/jpg/Redecorating.jpg) no-repeat;
   background-size: cover;
 }
 
 .show__overhaul {
   grid-column: 2/3;
-  background: url(./image/jpg/Overhaul.jpg) no-repeat;
+  background: url(../image/jpg/Overhaul.jpg) no-repeat;
   background-size: cover;
 }
 
 .show__designer {
   grid-column: 3/4;
-  background: url(./image/jpg/Designer_Repair.jpg) no-repeat;
+  background: url(../image/jpg/Designer_Repair.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -433,7 +433,7 @@ body {
   margin: 0 auto;
   margin-bottom: 140px;
   padding-top: 100px;
-  background: url(./image/png/fasad.png) no-repeat;
+  background: url(../image/png/fasad.png) no-repeat;
   display: flex;
   max-width: 100%;
   height: 725px;
@@ -575,7 +575,7 @@ body {
   margin-bottom: 70px;
   display: flex;
   column-gap: 4%;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./image/jpg/fon_fantastic.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/jpg/fon_fantastic.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -816,7 +816,7 @@ body {
 
 
 .houm {
-  background: url(./image/png/hom_fon.png) no-repeat;
+  background: url(../image/png/hom_fon.png) no-repeat;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1549,7 +1549,7 @@ color: #fff;
   }
 
   .vystovka__slider-direction {
-    background: url(./image/jpg/slaider_top.jpg) no-repeat;
+    background: url(../image/jpg/slaider_top.jpg) no-repeat;
     height: 241px;
     display: flex;
     justify-content: space-between;
@@ -1692,7 +1692,7 @@ color: #fff;
 
   .slider__direction {
     margin-left: 16px;
-    background: url(./image/jpg/mob_we.jpg) no-repeat;
+    background: url(../image/jpg/mob_we.jpg) no-repeat;
     display: flex;
     height: 240px;
     align-items: center;
